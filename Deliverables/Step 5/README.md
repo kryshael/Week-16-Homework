@@ -29,6 +29,7 @@ Your client has asked that you help identify any vulnerabilities with their file
    - US-CERT recommends that users and administrators:
     - Disable SMBv1
     - Block all versions of SMB at the network boundary by blocking TCP port 445 with related protocols on UDP ports 137-138 and TCP port 139 for all boundary devices
+   - #### US-CERT cautions users and administrators that disabling or blocking SMB may create problems by obstructing access to shared files, data, or devices. The benefits of mitigation should be weighed against potential disruptions to users.
     
 
 
