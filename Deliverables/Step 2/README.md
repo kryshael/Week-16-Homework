@@ -12,8 +12,11 @@ The reconnaissance phase of a penetration test is possibly the most important ph
    San Antonio, TX 78229
 
 ####  2. What is the NetRange IP address?  
+ - IP Range: 65.61.137.64 - 65.61.137.127
 
 ####  3. What is the company they use to store their infrastructure? 
+ - Company Infrastructure: Rackspace Backbone Engineering
 
 ####  4. What is the IP address of the DNS server? 
+ - DNS Address: 65.61.137.117
 
