@@ -2,7 +2,7 @@
 
 Your client has asked that you help identify any vulnerabilities with their file-sharing server. Using the Metasploitable machine to act as your client's server, complete the following:
 
-- Command for Zenmap to run a service scan against the Metasploitable machine: 
+#### - Command for Zenmap to run a service scan against the Metasploitable machine: 
  
 - Bonus command to output results into a new text file named `zenmapscan.txt`:
 
