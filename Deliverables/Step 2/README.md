@@ -8,8 +8,8 @@ The reconnaissance phase of a penetration test is possibly the most important ph
 
  #### 1. Where is the company located?
   - Company address:
-  - 9725 Datapoint Drive, Suite 100
-  - San Antonio, TX 78229
+   9725 Datapoint Drive, Suite 100
+   San Antonio, TX 78229
 
 ####  2. What is the NetRange IP address?  
 
