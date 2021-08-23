@@ -6,5 +6,5 @@
 
 #### Is Altoro Mutual vulnerable to XSS: 
 <br></br>
-!(https://github.com/kryshael/Week-16-Homework/blob/main/Assets/XSSED.png)
+![XSSED](https://github.com/kryshael/Week-16-Homework/blob/main/Assets/XSSED.png)
 
