@@ -1,4 +1,4 @@
-#### Step 2: DNS and Domain Discovery
+### Step 2: DNS and Domain Discovery
 
 The reconnaissance phase of a penetration test is possibly the most important phase of the engagement. Without a clear understanding of your client's assets, vulnerabilities can go unnoticed and later exploited. 
 
@@ -6,11 +6,14 @@ The reconnaissance phase of a penetration test is possibly the most important ph
 
 - Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the following questions based on the results:
 
-  1. Where is the company located? 
+ #### 1. Where is the company located?
+  - Company address:
+  - 9725 Datapoint Drive, Suite 100
+  - San Antonio, TX 78229
 
-  2. What is the NetRange IP address?  
+####  2. What is the NetRange IP address?  
 
-  3. What is the company they use to store their infrastructure? 
+####  3. What is the company they use to store their infrastructure? 
 
-  4. What is the IP address of the DNS server? 
+####  4. What is the IP address of the DNS server? 
 
