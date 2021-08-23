@@ -27,6 +27,8 @@ Your client has asked that you help identify any vulnerabilities with their file
 
   #### 3. What mitigation strategies can you recommendations for the client to protect their server:
    - US-CERT recommends that users and administrators:
-   -- help
+    - Disable SMBv1
+    - Block all versions of SMB at the network boundary by blocking TCP port 445 with related protocols on UDP ports 137-138 and TCP port 139 for all boundary devices
+    
 
 
