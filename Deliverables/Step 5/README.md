@@ -20,9 +20,13 @@ Your client has asked that you help identify any vulnerabilities with their file
 - Once you have identified this vulnerability, answer the following questions for your client:
 
   #### 1. What is the vulnerability:
+   - SMB
   
   #### 2. Why is it dangerous:
+   - If an attacker gains access, then they can easily move laterally across a data center
 
   #### 3. What mitigation strategies can you recommendations for the client to protect their server:
+   - US-CERT recommends that users and administrators:
+   -- help
 
 
