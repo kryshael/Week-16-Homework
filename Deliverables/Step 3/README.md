@@ -7,5 +7,9 @@ Using Shodan and the information gathered from Google Dorking, find any other us
 - Run a scan against the IP address of the DNS server for `demo.testfire.net`. 
 
 #### What open ports and running services did Shodan find? 
-  - 
+|   Ports  |                Services                |
+|:--------:|:--------------------------------------:|
+|  80 TCP  | HTTP (Apache Tomcat/Coyote JSP Engine) |
+|  443 TCP |                  HTTPS                 |
+| 8080 TCP | HTTP (Apache Tomcat/Coyote JSP Engine) |
 
