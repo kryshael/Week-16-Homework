@@ -3,10 +3,13 @@
 Your client has asked that you help identify any vulnerabilities with their file-sharing server. Using the Metasploitable machine to act as your client's server, complete the following:
 
 #### Command for Zenmap to run a service scan against the Metasploitable machine: 
+ - nmap -sV 192.168.0.10
  
 #### Bonus command to output results into a new text file named `zenmapscan.txt`:
+ - nmap -sV -oN zenmapscan.txt 192.168.0.10
 
 #### Zenmap vulnerability script command: 
+ - nmap --script smb-vuln* -p 139,445 192.168.0.10
 
 - Once you have identified this vulnerability, answer the following questions for your client:
 
